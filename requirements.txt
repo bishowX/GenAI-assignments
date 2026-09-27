@@ -1,0 +1,7 @@
+google-genai
+strands-agents[openai]
+tavily-python
+gradio
+requests
+python-dotenv
+jupyterlab
